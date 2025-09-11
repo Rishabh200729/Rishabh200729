@@ -1,4 +1,4 @@
-<img src="banner.png" alt="Hey! I am Rishabh Dutt" width="100%" />
+<img src="github-header-banner.png" alt="Hey! I am Rishabh Dutt" width="100%" />
 
 <h1 align="center">Hey! 👋 I am Rishabh Dutt</h1>
 
