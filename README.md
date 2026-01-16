@@ -35,7 +35,7 @@
 
 ### 🌟 Featured Projects
 
-- 🧑‍💬 [Chat Cord](https://github.com/First-Contact-FC/ChatCord): Real-time chat app for seamless communication
+- 🧑‍💬 [Chat Cord](https://github.com/Rishabh200729/ChatCord): Real-time chat app for seamless communication
 - 🩺 [Heart Disease Prediction](https://github.com/Rishabh200729/mlproject): ML-powered health analytics
 - 📝 [ThoughtKeeper](https://github.com/Rishabh200729/ThoughtKeeper): Flutter-based journal for your thoughts
 
