@@ -5,7 +5,7 @@
 <h1 align="center">Hey! 👋 I am Rishabh Dutt</h1>
 
 <p align="center">
-  <b>Student | Robotics & AI Enthusiast | Full-Stack Developer | Football Fan</b>
+  <b>Student | Full-Stack Developer | AI-ML Enthusiast |Football Fan</b>
 </p>
 
 ---
