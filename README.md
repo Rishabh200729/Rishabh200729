@@ -26,7 +26,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rishabh200729&show_icons=true&theme=vision-friendly-dark&hide_border=true" alt="Rishabh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh200729&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 ---
 
