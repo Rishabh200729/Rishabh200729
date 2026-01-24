@@ -31,10 +31,10 @@
 
 ### 🌟 Featured Projects
 
-- 💰 **Smart Finance Tracker** – Full-stack app with Next.js, TypeScript & PostgreSQL.
-- 🛡️ **Market Sentry** – AI-driven stock market manipulation detector.
-- 🩺 [Heart Disease Prediction](https://github.com/Rishabh200729/mlproject) – ML-powered health analytics.
-- 🧑‍💬 [Chat Cord](https://github.com/Rishabh200729/ChatCord) – Real-time chat application.
+- 💰 [**Smart Finance Tracker**](https://github.com/Rishabh200729/Finance-Tracker) – Full-stack app with Next.js, TypeScript & PostgreSQL.
+- 🛡️ [**Market Sentry**](https://github.com/Rishabh200729/FinScribe) – AI-driven stock market manipulation detector.
+- 🩺 [**Heart Disease Prediction**](https://github.com/Rishabh200729/mlproject) – ML-powered health analytics.
+- 🧑‍💬 [**Chat Cord**](https://github.com/Rishabh200729/ChatCord) – Real-time chat application.
 
 ---
 
