@@ -84,6 +84,14 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh200729&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
+</div>
+
+---
+
 ## 🤝 Let's Connect!
 
 <div align="center">
