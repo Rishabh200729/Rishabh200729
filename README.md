@@ -72,13 +72,26 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 ## ⭐ Featured Projects
 
-🚀 [**Smart Finance Tracker**](https://github.com/Rishabh200729/Finance-Tracker)  
-*Full-stack financial management app with Next.js, TypeScript, and PostgreSQL.*
-🛡️ [**Market Sentry**](https://github.com/Rishabh200729/FinScribe)  
-*AI-driven stock market manipulation detector using machine learning.*
-@ [**Chat Cord**](https://github.com/Rishabh200729/ChatCord)  
-*Real-time chat application with WebSocket integration.*
-
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🚀 <a href="https://github.com/Rishabh200729/Finance-Tracker">Smart Finance Tracker</a></h3>
+      <p>Full-stack financial management app with Next.js, TypeScript, and PostgreSQL.</p>
+    </td>
+    <td width="50%">
+      <h3>💰 <a href="https://github.com/Rishabh200729/FinScribe">FinScribe</a></h3>
+      <p>AI-driven stock market manipulation detector using machine learning.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📍 <a href="https://github.com/Rishabh200729/EventsNearMe">Events Near Me</a></h3>
+      <p>Discover local events and activities happening around you in real-time.</p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
 
 ---
 
