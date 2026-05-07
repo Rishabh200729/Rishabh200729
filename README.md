@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=I'm+a+Full-Stack+Developer;Always+building+amazing+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Code+|+Coffee+|+Creativity)](https://git.io/typing-svg)
 
 
 </div>
@@ -81,22 +81,6 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
     </td>
   </tr>
 </table>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh200729&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rishabh200729&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b35&area=true&area_color=58a6ff" alt="Contribution Graph" />
-</div>
 
 ---
 
