@@ -6,6 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB;Building+cool+stuff+one+commit+at+a+time+%F0%9F%9A%80)](https://git.io/typing-svg)
 
+
 </div>
 
 ---
@@ -71,22 +72,13 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 
 ## ⭐ Featured Projects
 
-<div align="center">
+🚀 [**Smart Finance Tracker**](https://github.com/Rishabh200729/Finance-Tracker)  
+*Full-stack financial management app with Next.js, TypeScript, and PostgreSQL.*
+🛡️ [**Market Sentry**](https://github.com/Rishabh200729/FinScribe)  
+*AI-driven stock market manipulation detector using machine learning.*
+@ [**Chat Cord**](https://github.com/Rishabh200729/ChatCord)  
+*Real-time chat application with WebSocket integration.*
 
-<a href="https://github.com/Rishabh200729/Finance-Tracker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh200729&repo=Finance-Tracker&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b35" width="49%" />
-</a>
-<a href="https://github.com/Rishabh200729/FinScribe">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh200729&repo=FinScribe&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b35" width="49%" />
-</a>
-<a href="https://github.com/Rishabh200729/mlproject">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh200729&repo=mlproject&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b35" width="49%" />
-</a>
-<a href="https://github.com/Rishabh200729/ChatCord">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rishabh200729&repo=ChatCord&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=ff6b35" width="49%" />
-</a>
-
-</div>
 
 ---
 
