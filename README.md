@@ -17,9 +17,7 @@
 name: Rishabh Dutt
 role: Student & Full-Stack Developer
 location: India
-currently_learning: [ "System Design", "Cloud Architecture", "Performance Optimization" ]
 interests: [ "Building Web Apps", "Open Source", "Football ⚽" ]
-fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
 ```
 
 ---
