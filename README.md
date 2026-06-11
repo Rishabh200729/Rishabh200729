@@ -94,14 +94,7 @@ fun_fact: "I debug with console.log and I'm not ashamed of it 😄"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh200729&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&lang_count=8" alt="Top Languages" />
 </div>
 
----
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rishabh200729&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="100%" />
-</div>
-
----
 
 ## 📈 Contribution Graph
 
