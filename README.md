@@ -4,22 +4,19 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=I'm+a+Full-Stack+Developer;Passionate+about+solving+real+problems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=100&lines=Full-Stack+Developer;Building+with+the+MERN+stack+%26+LLMs;)](https://git.io/typing-svg)
+
+
 
 
 </div>
 
----
 
+
+---
 ### 🧑‍💻 About Me
 
-```yaml
-name: Rishabh Dutt
-role: Student & Full-Stack Developer
-location: India
-interests: [ "Building Web Apps", "Open Source", "Football ⚽" ]
-```
-
+I'm Rishabh Dutt, a student and full-stack developer based in India, building with the MERN stack, PostgreSQL, and LLM APIs. Lately I've been pulled toward ML/AI research — semantic NLP systems in particular — and I'm working on shoring up the underlying math (optimization theory, probabilistic embeddings, attention mechanisms) to go deeper there.
 ---
 
 ## 🛠️ Tech Arsenal
@@ -38,18 +35,23 @@ interests: [ "Building Web Apps", "Open Source", "Football ⚽" ]
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 
-#### Backend & Database
+#### Backend & Data
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-#### Tools
+#### ML / AI
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+#### Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -59,39 +61,45 @@ interests: [ "Building Web Apps", "Open Source", "Football ⚽" ]
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🚀 <a href="https://github.com/Rishabh200729/Finance-Tracker">Smart Finance Tracker</a></h3>
-      <p>Full-stack financial management app with Next.js, TypeScript, and PostgreSQL.</p>
-    </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>💰 <a href="https://github.com/Rishabh200729/FinScribe">FinScribe</a></h3>
-      <p>AI-driven stock market manipulation detector using machine learning.</p>
+      <p>Self-learning financial transaction categorizer. A two-stage Dynamic Exemplar Engine (zero-shot cosine similarity + few-shot matching) built on Sentence Transformers embeddings, with explainable confidence scores and macro F1 above 0.90. Runs locally via FastAPI + Streamlit — no data leaves your infrastructure.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎧 <a href="https://github.com/Rishabh200729/SupportCopilot">SupportCopilot</a></h3>
+      <p>LLM-powered support assistant built on the MERN + PostgreSQL stack, deployed on Vercel.</p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <h3>🚀 <a href="https://github.com/Rishabh200729/Finance-Tracker">Smart Finance Tracker</a></h3>
+      <p>Full-stack financial management app built with Next.js, TypeScript, PostgreSQL, and the Gemini API.</p>
+    </td>
+    <td width="50%" valign="top">
       <h3>📍 <a href="https://github.com/Rishabh200729/EventsNearMe">Events Near Me</a></h3>
       <p>Discover local events and activities happening around you in real-time.</p>
     </td>
-    <td width="50%">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>🏥 <a href="https://github.com/Rishabh200729/MEDVAULT">MedVault AI</a></h3>
       <p>Centralized medical identity ecosystem with AI OCR, role-based access, and emergency QR codes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚦 Traffic Monitoring (YOLOv8)</h3>
+      <p>Real-time traffic monitoring system built during an internship at Thapar Institute of Engineering and Technology.</p>
     </td>
   </tr>
 </table>
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh200729&show_icons=true&theme=github_dark&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh200729&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh200729&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&lang_count=8" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh200729&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=58a6ff" alt="GitHub Streak" height="165"/>
 </div>
-
 
 
 ## 📈 Contribution Graph
@@ -115,7 +123,5 @@ interests: [ "Building Web Apps", "Open Source", "Football ⚽" ]
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%" />
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer" width="100%" />
 </div>
