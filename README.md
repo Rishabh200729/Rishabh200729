@@ -4,8 +4,8 @@
 
 **Full-Stack Developer** · MERN · PostgreSQL · LLM APIs
 
-Student building toward ML/AI research — currently deepening the math behind semantic NLP:
-optimization theory, probabilistic embeddings, attention mechanisms.
+Web Developer specializing in the MERN Stack, PostgreSQL & GenAI — building scalable full-stack applications and AI-powered solutions.
+
 
 [GitHub](https://github.com/Rishabh200729) · [LinkedIn](https://www.linkedin.com/in/rishabh-dutt-a05a66210) · [Email](mailto:your-email@example.com)
 
